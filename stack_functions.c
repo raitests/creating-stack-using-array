@@ -5,6 +5,7 @@ int top = -1;
 int arr[MAX];
 
 // array implementation of stack
+
 void display()
 {
     int i = top;
