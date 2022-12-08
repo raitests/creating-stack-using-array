@@ -43,10 +43,9 @@ void display()
     
 }
 
-int main()
+void main()
 {
     push(1);
 
     display();
-    return 0;
 }
